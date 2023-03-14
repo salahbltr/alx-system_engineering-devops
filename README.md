@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Shell, basics
+README file for 0x03. Shell, init files, variables and expansions
